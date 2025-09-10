@@ -1,4 +1,3 @@
-## Hi there 👋
 # About me
 
 Applied machine learning and computer vision practitioner. Focus on image understanding for real‑world domains (e.g., ag‑tech and industrial). I design end‑to‑end pipelines from data to deployment.
